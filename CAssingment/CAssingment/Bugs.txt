@@ -1,0 +1,4 @@
+DavidNolan
+123456: Orders. File not opening. Status closed.
+475937: Company Manager. User input not being registered. Status Assigned.
+358935: Company Manager. User not able to access files. Status open.

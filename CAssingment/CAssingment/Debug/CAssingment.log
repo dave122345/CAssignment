@@ -1,0 +1,10 @@
+﻿  Source.c
+c:\users\david\documents\vs work\cassingment\cassingment\source.c(44): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\david\documents\vs work\cassingment\cassingment\source.c(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\david\documents\vs work\cassingment\cassingment\source.c(44): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\david\documents\vs work\cassingment\cassingment\source.c(20): warning C4101: 'Urgency': unreferenced local variable
+c:\users\david\documents\vs work\cassingment\cassingment\source.c(22): warning C4101: 'username': unreferenced local variable
+c:\users\david\documents\vs work\cassingment\cassingment\source.c(48): warning C4101: 'myBugs': unreferenced local variable
+  CAssingment.vcxproj -> C:\Users\David\Documents\VS work\CAssingment\Debug\CAssingment.exe
